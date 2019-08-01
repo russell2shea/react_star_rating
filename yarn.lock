@@ -4105,7 +4105,7 @@ handle-thing@^1.2.5:
 
 handlebars@^4.0.3:
   version "4.0.12"
-  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.0.14.tgz#2c15c8a96d46da5e266700518ba8cb8d919d5bc5"
+  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.0.12.tgz#2c15c8a96d46da5e266700518ba8cb8d919d5bc5"
   integrity sha512-RhmTekP+FZL+XNhwS1Wf+bTTZpdLougwt5pcgA1tuz6Jcx0fpH/7z0qd71RKnZHBCxIRBHfBOnio4gViPemNzA==
   dependencies:
     async "^2.5.0"
@@ -4320,7 +4320,7 @@ html-webpack-plugin@4.0.0-alpha.2:
     "@types/tapable" "1.0.2"
     html-minifier "^3.2.3"
     loader-utils "^1.1.0"
-    lodash "^4.17.13"
+    lodash "^4.17.10"
     pretty-error "^2.0.2"
     tapable "^1.0.0"
     util.promisify "1.0.0"
@@ -4362,7 +4362,7 @@ http-proxy-middleware@~0.18.0:
   dependencies:
     http-proxy "^1.16.2"
     is-glob "^4.0.0"
-    lodash "^4.17.13"
+    lodash "^4.17.5"
     micromatch "^3.1.9"
 
 http-proxy@^1.16.2:
@@ -4532,7 +4532,7 @@ inquirer@6.2.0, inquirer@^6.1.0:
     cli-width "^2.0.0"
     external-editor "^3.0.0"
     figures "^2.0.0"
-    lodash "^4.17.13"
+    lodash "^4.17.10"
     mute-stream "0.0.7"
     run-async "^2.2.0"
     rxjs "^6.1.0"
@@ -5573,7 +5573,7 @@ last-call-webpack-plugin@^3.0.0:
   resolved "https://registry.yarnpkg.com/last-call-webpack-plugin/-/last-call-webpack-plugin-3.0.0.tgz#9742df0e10e3cf46e5c0381c2de90d3a7a2d7555"
   integrity sha512-7KI2l2GIZa9p2spzPIVZBYyNKkN+e/SQPpnjlTiPhdbDW3F86tdKKELxKpzJ5sgU19wQWsACULZmpTPYHeWO5w==
   dependencies:
-    lodash "^4.17.13"
+    lodash "^4.17.5"
     webpack-sources "^1.1.0"
 
 lazy-cache@^0.2.3:
@@ -5707,9 +5707,9 @@ lodash.tail@^4.1.1:
   resolved "https://registry.yarnpkg.com/lodash.tail/-/lodash.tail-4.1.1.tgz#d2333a36d9e7717c8ad2f7cacafec7c32b444664"
   integrity sha1-0jM6NtnncXyK0vfKyv7HwytERmQ=
 
-lodash.template@^4.2.4, lodash.template@^4.5.0:
+lodash.template@^4.2.4, lodash.template@^4.4.0:
   version "4.4.0"
-  resolved "https://registry.yarnpkg.com/lodash.template/-/lodash.template-4.5.0.tgz#e73a0385c8355591746e020b99679c690e68fba0"
+  resolved "https://registry.yarnpkg.com/lodash.template/-/lodash.template-4.4.0.tgz#e73a0385c8355591746e020b99679c690e68fba0"
   integrity sha1-5zoDhcg1VZF0bgILmWecaQ5o+6A=
   dependencies:
     lodash._reinterpolate "~3.0.0"
